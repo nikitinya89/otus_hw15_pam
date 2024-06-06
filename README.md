@@ -60,7 +60,7 @@ otus@pam:~$
 otus@pam:~$ systemctl status docker.service
 ● docker.service - Docker Application Container Engine
      Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
-     Active: active (running) since Thu 2024-06-06 18:51:08 UTC; 6s ago
+     Active: active (running) since Thu 2024-06-06 18:51:08 UTC; 5s ago
 TriggeredBy: ● docker.socket
        Docs: https://docs.docker.com
    Main PID: 4490 (dockerd)
