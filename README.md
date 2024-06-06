@@ -9,7 +9,7 @@
 
 
 ```bash
-timedatectl set-ntp 0
+root@pam:~# timedatectl set-ntp 0
 root@pam:~# date 060912002024.00
 Sun Jun  9 12:00:00 UTC 2024
 ```
